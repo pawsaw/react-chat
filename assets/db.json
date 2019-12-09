@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Max"
+        },
+        {
+            "id": 2,
+            "name": "Susi"
+        }
+    ],
+    "messages": [
+        {
+            "id": 1,
+            "userId": 1,
+            "text": "Hello World"
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "text": "Hello Max"
+        }
+    ]
+}
